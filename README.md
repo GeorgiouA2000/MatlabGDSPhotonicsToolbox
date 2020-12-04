@@ -66,4 +66,4 @@ Copyright © 2010-2017 Angus Johnson.
 Boost Software License - Version 1.0 - August 17th, 2003
 http://www.angusj.com/delphi/clipper.php
 
-The Clipper library performs line & polygon clipping - intersection, union, difference & exclusive-or, and line & polygon offsetting. The library is based on Vatti's clipping algorithm. The download package contains the library's full source code (written in Delphi, C++ and C#), numerous demos, a help file and links to third party Python, Perl, Ruby and Haskell modules. This was inserted into the GDS II Toolbox by Ulf Griesmann.
+The Clipper library performs line & polygon clipping - intersection, union, difference & exclusive-or, and line & polygon offsetting. The library is based on Vatti's clipping algorithm. The download package contains the library's full source code (written in Delphi, C++ and C#), numerous demos, a help file and links to third party Python, Perl, Ruby and Haskell modules. This was inserted into the GDS II Toolbox by Ulf Griesmann..
